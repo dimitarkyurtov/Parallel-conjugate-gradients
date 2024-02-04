@@ -1,0 +1,1 @@
+This repository conatins solution to the problem from this [repo](https://github.com/ezhilmathik/2024-EUMaster4HPC-Student-Challenge/tree/main/conjugate_gradients-main). Instructions on how to build and run it can be found there.
